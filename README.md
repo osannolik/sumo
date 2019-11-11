@@ -20,3 +20,8 @@ Raspberry Pi is planned to be used for running the algorithms.
 
 ![](./images/hw-robot-front.jpg)
 ![](./images/hw-robot-bottom.jpg)
+
+## Simulator
+The project includes a simulator that can be used for both training and visualization.
+
+![](./dqn/runs/Feb09_18-56-39_Jonas-MBPr-sumo-v0/sumo-dqn.gif)
